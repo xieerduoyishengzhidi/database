@@ -1,0 +1,19 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
