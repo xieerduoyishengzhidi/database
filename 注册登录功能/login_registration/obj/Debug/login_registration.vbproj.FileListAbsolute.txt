@@ -1,0 +1,13 @@
+D:\VB.NET\login_registration\bin\Debug\login_registration.exe.config
+D:\VB.NET\login_registration\bin\Debug\login_registration.exe
+D:\VB.NET\login_registration\bin\Debug\login_registration.pdb
+D:\VB.NET\login_registration\bin\Debug\login_registration.xml
+D:\VB.NET\login_registration\obj\Debug\login_registration.vbproj.AssemblyReference.cache
+D:\VB.NET\login_registration\obj\Debug\login_registration.Form1.resources
+D:\VB.NET\login_registration\obj\Debug\login_registration.Resources.resources
+D:\VB.NET\login_registration\obj\Debug\login_registration.vbproj.GenerateResource.cache
+D:\VB.NET\login_registration\obj\Debug\login_registration.vbproj.CoreCompileInputs.cache
+D:\VB.NET\login_registration\obj\Debug\login_registration.exe
+D:\VB.NET\login_registration\obj\Debug\login_registration.xml
+D:\VB.NET\login_registration\obj\Debug\login_registration.pdb
+D:\VB.NET\login_registration\obj\Debug\login_registration.Form2.resources
