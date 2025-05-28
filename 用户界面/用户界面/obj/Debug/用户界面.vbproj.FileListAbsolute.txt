@@ -1,0 +1,12 @@
+E:\数据库小组作业\用户界面\用户界面\bin\Debug\用户界面.exe.config
+E:\数据库小组作业\用户界面\用户界面\bin\Debug\用户界面.exe
+E:\数据库小组作业\用户界面\用户界面\bin\Debug\用户界面.pdb
+E:\数据库小组作业\用户界面\用户界面\bin\Debug\用户界面.xml
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.vbproj.AssemblyReference.cache
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.CustomerMainForm.resources
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.Resources.resources
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.vbproj.GenerateResource.cache
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.vbproj.CoreCompileInputs.cache
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.exe
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.xml
+E:\数据库小组作业\用户界面\用户界面\obj\Debug\用户界面.pdb
