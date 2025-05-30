@@ -1,0 +1,13 @@
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.vbproj.AssemblyReference.cache
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.frmInventory.resources
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.frmProductManagement.resources
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.Resources.resources
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.vbproj.GenerateResource.cache
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.vbproj.CoreCompileInputs.cache
+D:\sqlproject\Merchant_UI\Merchant_UI\bin\Debug\Merchant_UI.exe.config
+D:\sqlproject\Merchant_UI\Merchant_UI\bin\Debug\Merchant_UI.exe
+D:\sqlproject\Merchant_UI\Merchant_UI\bin\Debug\Merchant_UI.pdb
+D:\sqlproject\Merchant_UI\Merchant_UI\bin\Debug\Merchant_UI.xml
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.exe
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.xml
+D:\sqlproject\Merchant_UI\Merchant_UI\obj\Debug\Merchant_UI.pdb

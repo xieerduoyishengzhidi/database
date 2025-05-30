@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Merchant_UI", "Merchant_UI\Merchant_UI.vbproj", "{CC000054-B125-474A-BCA3-5BA9FBB22B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC000054-B125-474A-BCA3-5BA9FBB22B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC000054-B125-474A-BCA3-5BA9FBB22B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC000054-B125-474A-BCA3-5BA9FBB22B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC000054-B125-474A-BCA3-5BA9FBB22B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43846B7-6FAA-44E7-8A80-2948FD60FAE2}
+	EndGlobalSection
+EndGlobal
